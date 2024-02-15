@@ -22,3 +22,10 @@ Click on the "Assign Task" button.
 Track Deadlines:
 
 Click on the "Track Deadlines" button to view all tasks sorted by their due dates and the days remaining until the deadlin
+
+
+projects Directory is non fuunctional I couldn'tt delete folder
+basic.py represents initial project management system without GUI
+venv is a virtual to store my libraries
+gui.py is the main file of the ptoject managemnt system with GUI 
+import pokemon.py is the task we have to webscrape from the internet 
